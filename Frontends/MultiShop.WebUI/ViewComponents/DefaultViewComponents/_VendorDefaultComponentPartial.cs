@@ -2,7 +2,7 @@
 
 namespace MultiShop.WebUI.ViewComponents.DefaultViewComponents
 {
-    public class _OfferDiscountDefaultComponentPartial : ViewComponent
+    public class _VendorDefaultComponentPartial : ViewComponent
     {
         public IViewComponentResult Invoke()
         {
